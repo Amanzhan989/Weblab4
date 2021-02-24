@@ -1,0 +1,16 @@
+.dsc{
+    font-size: 0.45cm;
+    font-family: sans-serif;
+    color:black;
+}
+.nme{
+    color: black;
+    font-size: 0.7cm;
+}
+.shr{
+    background-color: rgb(85, 160, 11);
+}
+.pro{
+    font-family:monospace;
+    color:black;
+}
